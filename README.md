@@ -1,1 +1,1 @@
-# boostrap-course
+# fundamentals
